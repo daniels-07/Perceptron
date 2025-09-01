@@ -1,5 +1,8 @@
 ﻿using System;
 
+// This Perceptron learns the AND logic gate 
+// Code is from a tutorial I found online, pushing to git for future reference
+
 namespace Perceptron
 {
     internal class Program
